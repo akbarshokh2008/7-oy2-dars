@@ -1,0 +1,50 @@
+{
+  "en": {
+    "translation": {
+      "assets": "Assets",
+      "creators": "Creators",
+      "careers": "Careers",
+      "goPro": "Go Pro",
+      "search": "Search",
+      "security": "A SECURITY SOLUTION",
+      "h1": "Keep track of your loved ones in real time!",
+      "text": "We noticed the high level of insecurity in the world, and we thought of how technology could be used to combat these insecurities.",
+      "join": "Join Our Waitlist!",
+      "ready": "Be the first to get notified when the product is ready!",
+      "email": "Your email address",
+      "emailJoin": "Join List!"
+    }
+  },
+  "ru": {
+    "translation": {
+      "assets": "Pесурсы",
+      "creators": "Создатели",
+      "careers": "Карьера",
+      "goPro": "Стань профессионалом",
+      "search": "Поиск",
+      "security": "РЕШЕНИЕ БЕЗОПАСНОСТИ",
+      "h1": "Следите за своими близкими в режиме реального времени!",
+      "text": "Мы заметили высокий уровень незащищенности в мире и задумались о том, как можно использовать технологии для борьбы с этой незащищенностью.",
+      "join": "Присоединяйтесь к нашему списку ожидания!",
+      "ready": "Получите уведомление первым, когда продукт будет готов!",
+      "email": "Ваш электронный адрес",
+      "emailJoin": "K списку!"
+    }
+  },
+  "uz": {
+    "translation": {
+      "assets": "Aktivlar",
+      "creators": "Ijodkorlar",
+      "careers": "Karyera",
+      "goPro": "Pro-ga o'ting",
+      "search": "Qidirish",
+      "security": "XAVFSIZLIK YECHIMI",
+      "h1": "Haqiqiy vaqtda yaqinlaringizni kuzatib boring!",
+      "text": "Biz dunyoda yuqori darajadagi ishonchsizlikni payqadik va biz ushbu ishonchsizlikka qarshi kurashish uchun texnologiyadan qanday foydalanish mumkinligi haqida o'yladik.",
+      "join": "Bizning kutish ro'yxatimizga qo'shiling!",
+      "ready": "Mahsulot tayyor bo'lganda birinchi bo'lib xabar oling!",
+      "email": "Sizning e-pochta manzilingiz",
+      "emailJoin": " Qoʻshilish!"
+    }
+  }
+}
